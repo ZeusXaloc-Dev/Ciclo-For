@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-
+// Ciclo for em C @ZeusXaloc-Dev
     int loop;
     int numero = 1;
     
